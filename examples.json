@@ -62,7 +62,7 @@
         "name": "bookmark-it"
     },
     {
-        "description": "Adds a solid red border to all webpages matching mozilla.org.",
+        "description": "CSSのボーダー(style:solid ; color:red)を、'mozilla.org.' にマッチするすべてのサイトに表示します。",
         "javascript_apis": [],
         "name": "borderify"
     },
