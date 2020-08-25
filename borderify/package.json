@@ -1,0 +1,25 @@
+{
+  "name": "my-borderify",
+  "version": "1.0.0",
+  "description": "mozilla.org に、CSSのボーダーを追加します。",
+  "main": "borderify.js",
+  "scripts": {
+    "start": "web-ext run -f \"C:\\Program Files\\Firefox Developer Edition\\firefox.exe\"",
+    "build": "web-ext build",
+    "test": "echo \"no test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eirblaze/webextensions-examples.git"
+  },
+  "keywords": [
+    "firefox"
+  ],
+  "private" : true,
+  "author": "eirblaze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eirblaze/webextensions-examples/issues"
+  },
+  "homepage": "https://github.com/eirblaze/webextensions-examples#readme"
+}
